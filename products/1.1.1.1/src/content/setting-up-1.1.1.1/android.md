@@ -38,6 +38,8 @@ Step 5: Click the check box called Show Advanced Options.
 
 Step 6: Change the IP Settings to the option called Static.
 
+
+
 Step 7: Remove any IP addresses that may be already listed and in their place add:
 
 ```txt
